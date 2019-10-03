@@ -1,0 +1,111 @@
+body {
+	background: #FFFF99;
+	border: 0;
+	/*margin: 6px;
+	padding: 2px;
+	vertical-align: baseline;*/
+	font: 0.8em "Arial",serif;
+	color: #989898  ;
+	}
+		
+textarea {
+        display: block;
+        width: 100%;
+		background: rgb(90%, 90%, 91%);
+		 
+        }
+
+textarea:hover {
+background-color: #ffffe6;}		
+
+#output {
+font: 4.1em "Arial",serif;
+/*margin: 80px 0px 0px 0px;*/
+/*margin-top: 50%;*/
+}
+#boxx {
+       position: fixed !important;
+      position: absolute;
+      border: 2.8px solid #CCCCCC;
+	  top: 0;
+	  right: 0;
+	  bottom: 0;
+	  left: 0;
+	  /*width:auto;*/
+	  /*height: auto;*/}
+	  
+	  #boxx2 {
+      border: 1.8px solid #E8E8E8;
+	  /*width:50%;
+	  height: auto;*/
+	  margin: 20%;
+	  width:auto;
+	  height: 50%;
+	  
+	  float: center;}
+	  
+	  /*#boxx3 {
+      border: 1.8px solid #E8E8E8;
+	  width:auto;
+	  height: 50%;
+	  margin: 20%;
+	  
+	  float: center;}*/
+
+#joketext {
+font: 1.1em "Arial",serif;
+color: #989898  ;}
+#timecode {
+font: 1.1em "Arial",serif;
+color: #000000 ;}
+
+#soulfood {
+height: 34px;
+width: 100%;
+border: 1px solid #909090;
+margin: 3px;
+}
+
+#aform button{
+cursor: pointer;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border: 1px solid #F0FFFF;
+background-color: #FFFFFF;}
+#aform button:hover {
+background-color: #F0FFFF;}
+
+
+
+#aform input{
+background-color: #FFFFFF;}
+#aform input:hover {
+background-color: #F0FFFF;}
+#aform [type=check],
+#aform [type=radio],
+#aform [type=submit] 
+ {
+	cursor: pointer;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border: 1px solid #F0FFFF;
+}
+
+#butts {
+float: right;
+height: 30px;
+width: 8%;
+border: 0.7px solid #909090;
+margin: 0.5 px;
+}
+
+#centra {
+float: center;
+/*margin: 4px 2px 3px 3px; */
+}
+
+#wandler {
+height: 30px;
+width: 100%;}
